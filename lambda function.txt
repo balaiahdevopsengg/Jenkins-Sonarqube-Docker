@@ -1,0 +1,4 @@
+What is lambda function ?
+ans:
+   An Anonymous function is known as a Lambda function. This function can have any number of arguments but,can have only one expression.
+(single-line function declared with no name)
